@@ -11,3 +11,5 @@ I analyzed different coutries' CO2 emission levels and plotted them using Matplo
 ![Australia CO2 Values](https://github.com/parvinnabili/Project2/blob/a434e8ef736a2fb59193bcace063a50229742adf/Australia%20CO2%20Values.PNG)
 
 #### The Code for the analysis: https://github.com/parvinnabili/Project2/blob/a434e8ef736a2fb59193bcace063a50229742adf/UNEnvDataAnalysisNov2022.ipynb and https://github.com/parvinnabili/Project2/blob/a434e8ef736a2fb59193bcace063a50229742adf/UNEnvDataAnalysis2Nov2022.ipynb
+
+This project was done as a part of Programming for Data Analysis module at South East Technological University.
