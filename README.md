@@ -1,4 +1,4 @@
-# UN Environmental Data Analysis Project on Anaconda Jupyter Notebooks
+# UN Environmental Data Analysis on Anaconda Jupyter Notebooks
 
 For this project, I analyzed the dataset retrieved from the [UN Datamart](http://data.un.org/Data.aspx?d=GHG&f=seriesID%3aCO2). The dataset is entitled, Carbon dioxide (CO2) Emissions without Land Use, Land-Use Change and Forestry (LULUCF), in kiloton CO2 equivalent.
 
